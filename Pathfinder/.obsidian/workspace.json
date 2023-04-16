@@ -81,14 +81,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Páramo del Cuervo.md",
+                "file": "Lugares/Galduria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21ea5d6ddd86d5a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Galduria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37d6499fecd78102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Oreja de Lobo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a18d8a2b1e7b1bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Nybor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -154,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Páramo del Cuervo.md",
+                "file": "Lugares/Nybor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lugares/Páramo del Cuervo.md",
+                "file": "Lugares/Nybor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lugares/Páramo del Cuervo.md"
+                "file": "Lugares/Nybor.md"
               }
             }
           }
@@ -215,14 +251,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "92ff6ad951242a49",
+  "active": "d1392542d8158d43",
   "lastOpenFiles": [
-    "Lugares/Oreja de Lobo.md",
-    "Lugares/Meseta Storval.md",
     "Lugares/Galduria.md",
-    "Lugares/Picos de Hierro.md",
-    "Lugares/Escaleras Storval.md",
+    "Lugares/Nybor.md",
+    "Lugares/Oreja de Lobo.md",
+    "Lugares/Valle de la Torre Negra.md",
+    "Lugares/Lago Ascua.md",
+    "Organizaciones/Academia del Crepúsculo.md",
+    "Organizaciones",
     "Lugares/Páramo del Cuervo.md",
-    "Lugares/Valle de la Torre Negra.md"
+    "Lugares/Meseta Storval.md",
+    "Lugares/Picos de Hierro.md",
+    "Lugares/Escaleras Storval.md"
   ]
 }
