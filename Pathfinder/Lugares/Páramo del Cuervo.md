@@ -1,0 +1,8 @@
+Si bien la ciudad varisiana de Ravenmoor parece un asentamiento normal, pintoresco y aislado a lo largo del río Lampblack, guarda un secreto más profundo que sus residentes parecen dedicados a guardar. Durante el día, el comercio tiene lugar como lo haría en cualquier pueblo fronterizo, y los ciudadanos son tan abiertos y confiados como cabría esperar. Por la noche, los viajeros descubrirán que su moneda no les permite obtener una habitación en ninguna de las posadas, y los aparentemente piadosos residentes se vuelven mucho más reservados sobre sus creencias religiosas. La verdadera naturaleza de este extraño pueblo sigue siendo un misterio, salvo para quienes viven allí.
+
+## Geografía
+El pueblo de Ravenmoor se encuentra a mitad de camino entre Ember Lake y Storval Plateau en el centro de Varisia. Al sur y al este del pueblo hay senderos terrestres que conectan con las comunidades cercanas de Wolf's Ear y Roderic's Cove. Río arriba en Lampblack, la tierra se convierte en un desierto sin caminos a través de Curchain Hills hasta Storval Stairs.
+
+## Economía
+Aunque el pueblo se vuelve algo xenófobo por la noche, durante el día, la gente está feliz de comerciar con cualquiera que haga el viaje a Ravenmoor. Comercian con frecuencia con el clan Shoanti Hawk cercano, y a menudo llegan a la conclusión errónea de que todos los shoanti deben ser tan acogedores como los Shriikirri-Quah.
+El área alrededor de la ciudad es conocida por sus excelentes viñedos, y se pueden encontrar uvas y vino de Ravenmoor tan lejos como los mercados de la lejana Korvosa

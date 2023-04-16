@@ -14,8 +14,81 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d91ffc1fa84c71b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Galduria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b819e6fcb697181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Oreja de Lobo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e31e5b760a2b042f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Páramo del Cuervo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efa9962c4665b2d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Galduria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c719ba93e53ef65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Galduria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92ff6ad951242a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Páramo del Cuervo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -81,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lugares/Páramo del Cuervo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lugares/Páramo del Cuervo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lugares/Páramo del Cuervo.md"
+              }
             }
           }
         ]
@@ -138,6 +215,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4ac57780c51b29a7",
-  "lastOpenFiles": []
+  "active": "92ff6ad951242a49",
+  "lastOpenFiles": [
+    "Lugares/Oreja de Lobo.md",
+    "Lugares/Meseta Storval.md",
+    "Lugares/Galduria.md",
+    "Lugares/Picos de Hierro.md",
+    "Lugares/Escaleras Storval.md",
+    "Lugares/Páramo del Cuervo.md",
+    "Lugares/Valle de la Torre Negra.md"
+  ]
 }
